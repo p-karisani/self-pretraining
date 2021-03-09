@@ -1,5 +1,5 @@
 This is a Python code for the paper below: <br/>
-*Semi-Supervised Text Classification via Self-Pretraining*, Payam Karisani, Negin Karisani. WSDM 2021. [Link (soon)]()
+*Semi-Supervised Text Classification via Self-Pretraining*, Payam Karisani, Negin Karisani. WSDM 2021. [Link](http://www.mathcs.emory.edu/~pkarisa/2021___WSDM___self_pretraining.pdf)
 
 **Pre-requirements**
 - Python (>= 3.7.0)
